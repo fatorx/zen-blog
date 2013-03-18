@@ -1,0 +1,14 @@
+{
+    "name": "zen-blog",
+    "description": "Blog for ZF2",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "framework",
+        "zf2"
+    ],
+    "homepage": "",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": ">2.1.3"
+    }
+}
